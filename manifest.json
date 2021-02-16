@@ -15,7 +15,7 @@
   ],
 
   "browser_action": {
-    "default_icon": "icons/icon.jpg",
+    "default_icon": "icon/icon.jpg",
     "default_title": "Indic Languages",
     "default_popup": "popup/typing.html"
   }
