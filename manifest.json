@@ -7,7 +7,7 @@
   "description": "allow user to convert a word or sentence into any other language in the same website without visting another website for conversion",
   "homepage_url": "https://code.swecha.org/indian-languages/indic-language-typing-web-extension",
   "icons": {
-    "48": "icons/icon.jpg"
+    "48": "icon/icon.jpg"
   },
 
   "permissions": [
